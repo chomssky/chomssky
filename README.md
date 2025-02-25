@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chomssky
-- 👀 I’m interested in learning from peers and collaborate on Data Science projects
-- 🌱 I’m currently learning Data Science ...
-- 💞️ I’m looking to collaborate on Data Science, Machine Learning and Analytics projects
+- 👋 Hi there
+- I'm Jackson, a Certified Analytics Consultant from Accra, Ghana.
+- I leverage data insights to solve complex business problems and scale growth. 
+- 👀 I’m interested in learning and collaborating on Data Science, AI, and Technology projects
 - 📫 How to reach me 
 
 <!---
